@@ -1,6 +1,10 @@
 # TeamNotices
 Ennova Team Notices
 
+# Ennova  공유기 관리자 ( Ennova / Ennova_Meeting )
+ID : admin
+PW : @mbcisNo1
+
 # PlayStore
 
 <aside>
